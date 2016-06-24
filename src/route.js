@@ -18,6 +18,7 @@ const Page3 = () => {
 
 export default(
   <Route path="/" component={App} >
+    {/*<IndexRoute component={}>*/}
     <Route path="page1" component={Page1} />
     <Route path="page2" component={Page2} />
     <Route path="page3" component={Page3} />
