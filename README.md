@@ -3,10 +3,12 @@
 ## Introduction
 A simple starter kit to use React.js with Redux.
 
-## Get Started
+## Getting Started
 
-  npm install
-  npm start
+```
+	> npm install
+	> npm start
+```
 
 ## Features
 - Webpack
