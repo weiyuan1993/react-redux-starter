@@ -4,6 +4,7 @@
 A simple starter kit to use React.js with Redux.
 
 ## Get Started
+
   npm install
   npm start
 
